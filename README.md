@@ -1,3 +1,4 @@
+[![abhraneel2004's GitHub | Stats](https://stats.quine.sh/abhraneel2004/github?theme=dark)](https://quine.sh)
 <h1 align="center">Hi 👋, I'm Abhraneel Karmakar</h1>
 <h3 align="center">A developer from India</h3>
 <img align="right" alt = "coding" width = "400" src ="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg">
