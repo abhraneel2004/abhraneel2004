@@ -1,4 +1,6 @@
 [![abhraneel2004's GitHub | Stats](https://stats.quine.sh/abhraneel2004/github?theme=dark)](https://quine.sh)
+<br>
+[![An image of @abhraneel2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhraneel2004)](https://holopin.io/@abhraneel2004)
 <h1 align="center">Hi 👋, I'm Abhraneel Karmakar</h1>
 <h3 align="center">A developer from India</h3>
 <img align="right" alt = "coding" width = "400" src ="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg">
@@ -7,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **abhraneelkarmakar@gmail.com**
+- 📫 How to reach me **contact.abhraneel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +27,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhraneel2004&show_icons=true&locale=en&layout=compact" alt="abhraneel2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhraneel2004&" alt="abhraneel2004" /></p>
+
+
