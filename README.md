@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhraneel Karmakar</h1>
 <h3 align="center">A developer from India</h3>
-<img align="right" alt = "coding" width = "400" src ="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg">
+<img align="right" alt = "coding" width = "400" src ="abhra_dp.png">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
