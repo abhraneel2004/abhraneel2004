@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Abhraneel Karmakar</h1>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">I am  CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love Hacker Rank, leetcoding and hackathons.</h3>
 
 <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
@@ -67,5 +68,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhraneel2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhraneel2004" /> </p>
