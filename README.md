@@ -3,11 +3,8 @@
 <h3 align="center">I am  CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love Hacker Rank, leetcoding and hackathons.</h3>
 
 <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
-# 💫 About Me:
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
-</picture> I’m pursuing B.Tech. in Computer Science and Engineering <br><br> 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium%20Skin%20Tone.png" alt="Student Medium Skin Tone" width="40" height="40" /> &nbsp;&nbsp;I’m pursuing B.Tech. in Computer Science and Engineering <br><br> 
 <h2> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
