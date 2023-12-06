@@ -1,17 +1,36 @@
 
-<h1 align="center">Hi 👋, I'm Abhraneel Karmakar</h1>
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm Abhraneel Karmakar</h1>
 <h3 align="center">I am  CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love Hacker Rank, leetcoding and hackathons.</h3>
 
 <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
 # 💫 About Me:
-🌱 I’m pursuing B.Tech. in Computer Science and Engineering <br><br> 👯 I’m into  Hackathons & Leetcoding  <br><br>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+</picture> I’m pursuing B.Tech. in Computer Science and Engineering <br><br> 
+<h2> <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
+</picture>I’m into</h2>
+<ul>
+  <li>- Hackathons </li>
+<li>- Problem Solving </li>
+<li>- Open Source Contribution </li>
+<li>- Web Development</li>
+</ul>
+
+<br>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **contact.abhraneel@gmail.com**
+ 📫 How to reach me **contact.abhraneel@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> &nbsp;&nbsp;&nbsp; Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhraneel-karmakar-1b51971ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhraneel-karmakar-1b51971ba" height="30" width="40" /></a>
 <a href="https://instagram.com/abhraneel.karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhraneel.karmakar" height="30" width="40" /></a>
@@ -26,10 +45,18 @@
 
 <br><br><br><br><br>
 
-# <u>Holopin Badges</u> #
+
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture> Holopin Badges</h2>
+
 [![An image of @abhraneel2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhraneel2004)](https://holopin.io/@abhraneel2004)
 
-# <u>Github Stats</u> #
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+</picture> Github Stats</h2>
 
 [![abhraneel2004's GitHub | Stats](https://stats.quine.sh/abhraneel2004/github?theme=dark)](https://quine.sh)
 <br>
