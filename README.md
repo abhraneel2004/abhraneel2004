@@ -1,7 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Abhraneel Karmakar</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">I am  CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love Hacker Rank, leetcoding and hackathons.</h3>
+
 <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
+# 💫 About Me:
+🌱 I’m pursuing B.Tech. in Computer Science and Engineering <br><br> 👯 I’m into  Hackathons & Leetcoding  <br><br>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
