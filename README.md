@@ -74,8 +74,8 @@
 
 <p><img align="center" alt="abhraneel2004's GitHub " src="https://stats.quine.sh/abhraneel2004/github?theme=dark" href = "https://quine.sh"></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhraneel2004&show_icons=true&locale=en&layout=compact" alt="abhraneel2004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhraneel2004&" alt="abhraneel2004" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=abhraneel2004" alt="abhraneel2004" /></p>
+<p><img align="center" src = "https://github-readme-stats.vercel.app/api?username=abhraneel2004&show_icons=true"></p>
 <br>
 
 
