@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Abhraneel Karmakar</h1>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="center">I am  CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love Hacker Rank, leetcoding and hackathons.</h3>
 
 <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
@@ -44,7 +44,7 @@
 <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture> Holopin Badges</h2>
+</picture> Holopin Badges (Hacktober Fest 2k23)</h2>
 
 [![An image of @abhraneel2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhraneel2004)](https://holopin.io/@abhraneel2004)
 
@@ -68,5 +68,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhraneel2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhraneel2004" /> </p>
