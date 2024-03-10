@@ -6,7 +6,7 @@
 
 <h3 align="center">I am CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love Hacker Rank, Geeks for Geeks, and hackathons.</h3>
 
-<img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
+
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium%20Skin%20Tone.png" alt="Student Medium Skin Tone" width="40" height="40" /> &nbsp;&nbsp;I’m pursuing B.Tech. in Computer Science and Engineering <br>
 <h2> <picture>
@@ -16,9 +16,10 @@
 <ul>
   <li>- Hackathons </li>
 <li>- Problem Solving </li>
-<li>- Open Source Contribution </li>
+<li>- Open Source Contribution </li> <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
 <li>- Web Development</li>
 </ul>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
  📫 How to reach me **contact.abhraneel@gmail.com**
