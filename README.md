@@ -1,4 +1,7 @@
 
+![github_banner](https://github.com/abhraneel2004/abhraneel2004/assets/115551450/09351d09-eb56-4d8a-98d0-908dab69ff02)
+
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Abhraneel Karmakar</h1>
 
 <h3 align="center">I am CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love Hacker Rank, Geeks for Geeks, and hackathons.</h3>
