@@ -16,11 +16,12 @@
 <ul>
   <li>- Hackathons </li>
 <li>- Problem Solving </li>
-<li>- Open Source Contribution </li> <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
+<li>- Open Source Contribution </li> 
 <li>- Web Development</li>
 <li>- Internet of Things (IOT)</li>
 </ul>
 
+<img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
  📫 How to reach me **contact.abhraneel@gmail.com**
