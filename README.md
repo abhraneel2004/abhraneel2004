@@ -1,5 +1,5 @@
+![github_banner2](https://github.com/abhraneel2004/abhraneel2004/assets/115551450/66ca0551-b8c3-4c9a-8be9-c11a64701de8)
 
-![github_banner](https://github.com/abhraneel2004/abhraneel2004/assets/115551450/09351d09-eb56-4d8a-98d0-908dab69ff02)
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Abhraneel Karmakar</h1>
