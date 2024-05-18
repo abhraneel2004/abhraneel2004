@@ -79,14 +79,17 @@
 </picture> Github Stats</h2>
 
 <p><img align="center" alt="abhraneel2004's GitHub " src="https://stats.quine.sh/abhraneel2004/github?theme=dark" href = "https://quine.sh"></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhraneel2004&show_icons=true&locale=en&layout=compact" alt="abhraneel2004" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=abhraneel2004" alt="abhraneel2004" /></p>
-<p><img align="center" src = "https://github-readme-stats.vercel.app/api?username=abhraneel2004&show_icons=true"></p>
-<br>
 
+
+![](https://github-readme-stats.vercel.app/api?username=abhraneel2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhraneel2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhraneel2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhraneel2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abhraneel2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="35" height="35" />&nbsp;&nbsp;Random Dev Quote</p>
 
