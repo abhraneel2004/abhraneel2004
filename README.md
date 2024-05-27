@@ -88,6 +88,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhraneel2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhraneel2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -97,3 +98,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhraneel2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhraneel2004" /> </p>
+
+
+
+![snake gif](https://github.com/abhraneel2004/abhraneel2004/blob/output/github-contribution-grid-snake.svg)
