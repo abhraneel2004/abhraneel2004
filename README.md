@@ -99,6 +99,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhraneel2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhraneel2004" /> </p>
 
-
-
-![snake gif](https://github.com/abhraneel2004/abhraneel2004/blob/output/github-contribution-grid-snake.svg)
