@@ -1,8 +1,9 @@
 ![github_banner2](https://github.com/abhraneel2004/abhraneel2004/assets/115551450/66ca0551-b8c3-4c9a-8be9-c11a64701de8)
 
 
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I'm+Abhraneel+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Abhraneel Welcome to my Profile!">
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Abhraneel Karmakar</h1>
+<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Abhraneel Karmakar</h1> -->
 
 <h3 align="center">I am CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love Hacker Rank, Geeks for Geeks, and hackathons.</h3>
 
@@ -14,11 +15,12 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
 </picture>I’m into</h2>
 <ul>
-  <li>- Hackathons </li>
-<li>- Problem Solving </li>
-<li>- Open Source Contribution </li> 
-<li>- Web Development</li>
-<li>- Internet of Things (IOT)</li>
+  <li>Hackathons </li>
+<li>Problem Solving </li>
+<li>Open Source Contribution </li> 
+<li>Web Development</li>
+<li>UI/UX Designing</li>
+<li>Internet of Things (IOT)</li>
 </ul>
 
 <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
