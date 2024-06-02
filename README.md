@@ -123,6 +123,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=abhraneel2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhraneel2004&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhraneel2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhraneel2004&theme=transparent)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhraneel2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
