@@ -1,7 +1,8 @@
 ![github_banner2](https://github.com/abhraneel2004/abhraneel2004/assets/115551450/66ca0551-b8c3-4c9a-8be9-c11a64701de8)
 
 
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I'm+Abhraneel+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Abhraneel Welcome to my Profile!">
+<!-- ### <img src="https://readme-typing-svg.demolab.com?
+      font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I'm+Abhraneel+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Abhraneel Welcome to my Profile!">
 
 <!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Abhraneel Karmakar</h1> -->
 
@@ -57,15 +58,18 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="numpy" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/13166480-fdbf-4755-aca1-6edeefd7f682" alt="pandas" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="canva" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="numpy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="windows" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vscode" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" alt="sublime text" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/39ab0bb9-1a45-4eec-ae94-f0326757c04f" alt="notion" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/561e1842-da08-417e-bdd6-811d159f82ed" alt="fedora" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000" alt="eclipse IDE" width="40" height="40"/>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 
