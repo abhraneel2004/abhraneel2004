@@ -17,11 +17,12 @@
 </picture>I’m into</h2>
 <ul>
   <li>Hackathons </li>
-<li>Problem Solving </li>
 <li>Open Source Contribution </li> 
 <li>Web Development</li>
+<li>Machine Learning</li>
 <li>UI/UX Designing</li>
 <li>Internet of Things (IOT)</li>
+<li>Problem Solving </li>
 </ul>
 
 <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
