@@ -6,7 +6,7 @@
 
 <!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Abhraneel Karmakar</h1> -->
 
-<h3 align="center">I am CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love Hacker Rank, Geeks for Geeks, and hackathons.</h3>
+<h3 align="center">I am CSE undergrad. I love exploring different domains and have a UI/UX design knack.</h3>
 
 
 
@@ -17,13 +17,15 @@
 </picture>I’m into</h2>
 <ul>
   <li>Hackathons </li>
-<li>Open Source Contribution </li> 
 <li>Web Development</li>
+<li>Data Science</li>
 <li>Machine Learning</li>
 <li>UI/UX Designing</li>
+<li>Open Source Contribution </li> 
 <li>Internet of Things (IOT)</li>
 <li>Problem Solving </li>
 </ul>
+<p>In other words everything 😅. But currently learning Data Science with Python </p>
 
 <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -35,7 +37,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhraneel-karmakar-1b51971ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhraneel-karmakar-1b51971ba" height="30" width="40" /></a>
 <a href="https://instagram.com/abhraneel.karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhraneel.karmakar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhraneel132" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhraneel132" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhraneelkarmak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhraneelkarmak1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhraneelkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhraneelkarmakar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhraneelkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhraneelkarmakar" height="30" width="40" /></a>
@@ -63,19 +64,8 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/13166480-fdbf-4755-aca1-6edeefd7f682" alt="pandas" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="canva" width="40" height="40"/> </a> 
-<img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="windows" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vscode" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" alt="sublime text" width="40" height="40"/>
-<img src="https://github.com/user-attachments/assets/39ab0bb9-1a45-4eec-ae94-f0326757c04f" alt="notion" width="40" height="40"/>
-<img src="https://github.com/user-attachments/assets/561e1842-da08-417e-bdd6-811d159f82ed" alt="fedora" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000" alt="eclipse IDE" width="40" height="40"/>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 
-
-<!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  -->
 
 
 <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  -->
@@ -83,6 +73,23 @@
 </p>
 
 <br>
+<h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
+                width="28" /> &nbsp; Other Softwares and Platform Experiences:</h3>
+                <br>
+<p align="left">
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="canva" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="windows" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vscode" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" alt="sublime text" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/39ab0bb9-1a45-4eec-ae94-f0326757c04f" alt="notion" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/561e1842-da08-417e-bdd6-811d159f82ed" alt="fedora" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000" alt="eclipse IDE" width="40" height="40"/>
+</p>
+      <br>
 
 
 <br>
