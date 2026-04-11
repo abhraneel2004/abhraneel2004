@@ -8,7 +8,7 @@
 
 <h3 align="center">I am CSE undergrad. I love exploring different domains and have a UI/UX design knack.</h3>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhraneel2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhraneel2004" /> </p>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium%20Skin%20Tone.png" alt="Student Medium Skin Tone" width="40" height="40" /> &nbsp;&nbsp;I’m pursuing B.Tech. in Computer Science and Engineering <br>
 <h2> <picture>
@@ -126,6 +126,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhraneel2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhraneel2004" /> </p>
 
