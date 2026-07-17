@@ -6,29 +6,18 @@
 
 <!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Abhraneel Karmakar</h1> -->
 
-<h3 align="center">I am CSE undergrad. I love exploring different domains and have a UI/UX design knack.</h3>
+<h3 align="center">Designer by heart, Developer by choice</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhraneel2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhraneel2004" /> </p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium%20Skin%20Tone.png" alt="Student Medium Skin Tone" width="40" height="40" /> &nbsp;&nbsp;I’m pursuing B.Tech. in Computer Science and Engineering <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium%20Skin%20Tone.png" alt="Student Medium Skin Tone" width="40" height="40" /> &nbsp;&nbsp;B.Tech over.. Just Chilling <br>
 <h2> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
 </picture>I’m into</h2>
-<ul>
-  <li>Hackathons </li>
-<li>Web Development</li>
-<li>Data Science</li>
-<li>Machine Learning</li>
-<li>UI/UX Designing</li>
-<li>Open Source Contribution </li> 
-<li>Internet of Things (IOT)</li>
-<li>Problem Solving </li>
-</ul>
-<p>In other words everything 😅. But currently learning Data Science with Python </p>
+<p>Everything 😅</p>
 
 <img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
  📫 How to reach me **contact.abhraneel@gmail.com**
 
