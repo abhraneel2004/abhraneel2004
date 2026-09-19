@@ -18,7 +18,7 @@
 </picture>I’m into</h2>
 <p>Everything 😅</p>
 
-<img align="right" alt = "coding" width = "350" src ="abhra_dp.png">
+
 
  📫 How to reach me **contact.abhraneel@gmail.com**
 
