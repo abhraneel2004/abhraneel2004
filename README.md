@@ -1,4 +1,5 @@
-![github_banner2](https://github.com/abhraneel2004/abhraneel2004/assets/115551450/66ca0551-b8c3-4c9a-8be9-c11a64701de8)
+
+<img width="6336" height="1584" alt="LinkedIn_cover_new" src="https://github.com/user-attachments/assets/74fc5332-89ca-47aa-a9a7-f9c9956626c3" />
 
 
 <!-- ### <img src="https://readme-typing-svg.demolab.com?
