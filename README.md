@@ -105,6 +105,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhraneel2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhraneel2004&theme=transparent)
 
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhraneel2004/abhraneel2004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhraneel2004/abhraneel2004/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/abhraneel2004/abhraneel2004/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhraneel2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
