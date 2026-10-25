@@ -7,8 +7,14 @@ on:
     # every 6 hours
     - cron: "0 */6 * * *"
 
-  # allows running the Action manually from the Actions tab
+  # allows running the Action manually from the Actions tab, optionally forcing a theme to preview it
   workflow_dispatch:
+    inputs:
+      theme:
+        description: "Theme (auto picks by date)"
+        type: choice
+        default: auto
+        options: [auto, neon, halloween, diwali, winter, newyear, holi]
 
   # regenerate whenever main is updated
   push:
@@ -24,6 +30,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # Checks out the repo so the theme script is available
+      - uses: actions/checkout@v7
+
       # Generates the snake (light and dark variants) from the contribution graph
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
@@ -32,6 +41,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Re-skins the SVGs with a seasonal theme (neon arcade outside festival dates)
+      - name: Apply seasonal theme
+        run: node .github/scripts/snake-theme.mjs dist
+        env:
+          SNAKE_THEME: ${{ inputs.theme || 'auto' }}
 
       # Pushes the contents of dist/ to the "output" branch, keeping main uncluttered.
       # Files are served at https://raw.githubusercontent.com/abhraneel2004/abhraneel2004/output/<file>
